@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/karim-khaled-4823a71ba/" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/karim.khaled.9862/" target="_blank"><img src="https://img.shields.io/badge/-karim%20Khaled-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="khaledkarim808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-karim%20Khaled-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- <a href="khaledkarim808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-karim%20Khaled-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
